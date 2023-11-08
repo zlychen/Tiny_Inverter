@@ -10,7 +10,7 @@ B站视频效果链接：https://www.bilibili.com/video/BV1rw411M7xT/?spm_id_fro
 
 硬件方案链接：https://oshwhub.com/whutzf2010/mini-ac-source_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy
 
-软件固件链接：https://github.com/whutzf2010/tiny_inverter/
+软件固件链接：https://github.com/whutzf2010/Tiny_Inverter
 
 Design Scope
 
@@ -20,4 +20,4 @@ Weblink on Bilibili:  https://www.bilibili.com/video/BV1rw411M7xT/?spm_id_from=3
 
 Hardware Link： https://oshwhub.com/whutzf2010/mini-ac-source_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy
 
-Frimware Link： https://github.com/whutzf2010/tiny_inverter/
+Frimware Link： https://github.com/whutzf2010/Tiny_Inverter
